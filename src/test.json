@@ -1,0 +1,28 @@
+{
+    "contents": [
+        {
+            "items": [{
+                "name": "testComponent1",
+                "properties": {
+                    "id": "1"
+                }
+            }]
+        },
+        {
+            "items": [{
+                "name": "testComponent1",
+                "properties": {
+                    "id": "2"
+                }
+            }]
+        },
+        {
+            "items": [{
+                "name": "testComponent1",
+                "properties": {
+                    "id": "3"
+                }
+            }]
+        }
+    ]
+}
